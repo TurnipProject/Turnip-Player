@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-APP Turnip
+
+#EXTINF:-1,tvg-id="test-hls1" tvg-name="hls1" tvg-logo="https://raw.githubusercontent.com/TurnipProject/Turnip-Player/main/test/test-hls1.png" group-title="Test",Tears of Steel
+https://cph-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1,tvg-id="test-hls2" tvg-name="hls2" tvg-logo="https://raw.githubusercontent.com/TurnipProject/Turnip-Player/main/test/test-hls2.png" group-title="Test",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1,tvg-id="test-dash" tvg-name="dash" tvg-logo="https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/poster.jpg" group-title="Test",Art of Motion:dash
+https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd
+#EXTINF:-1,tvg-id="test-mp4" tvg-name="mp4" tvg-logo="https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/poster.jpg" group-title="Test",Art of Motion:1080p25fps
+https://cdn.bitmovin.com/content/assets/art-of-motion-dash-hls-progressive/MI201109210084_mpeg-4_hd_high_1080p25_10mbits.mp4
